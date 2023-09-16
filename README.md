@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Full stack MERN developer**
+- 🌱 I’m currently Finshed my **Full stack MERN development**.
 
 - 📫 How to reach me **sabarinathan2101@gmail.com**
 
